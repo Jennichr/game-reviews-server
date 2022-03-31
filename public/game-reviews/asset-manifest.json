@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.5d913f63.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/16.jpg": "/static/media/16.2d4827445c90bca3f39a.jpg",
+    "static/media/ufo.png": "/static/media/ufo.761c2c896f25f3209941.png",
+    "index.html": "/index.html",
+    "main.5d913f63.js.map": "/static/js/main.5d913f63.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5d913f63.js"
+  ]
+}
